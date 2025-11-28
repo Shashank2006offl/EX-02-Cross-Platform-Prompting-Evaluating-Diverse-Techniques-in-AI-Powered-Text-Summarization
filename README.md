@@ -69,13 +69,15 @@ Final Revised Summary
 
 ## VISUAL REPRESENTATIONS
 ### 1. **Process Flow Diagram**
-(As referenced image above)
+<img width="268" height="532" alt="image" src="https://github.com/user-attachments/assets/b1c51a0e-feb6-4511-85ba-9b20c0f0f3b8" />
+
 
 ### 2. **Comparative Scores: Bar Chart (Simplicity Metric)**
-*(Generated programmatically – displayed above)*
+<img width="1086" height="1057" alt="output (1)" src="https://github.com/user-attachments/assets/a16a1f79-4f30-449e-9c7b-e279bcee2cbb" />
+
 
 ### 3. **Radar Chart – Overall Evaluation**
-*(Generated visually – shows performance spread)*
+<img width="1665" height="1057" alt="output" src="https://github.com/user-attachments/assets/f9b2d6cc-83c3-485a-beb0-0417bfdd7bfa" />
 
 ---
 
